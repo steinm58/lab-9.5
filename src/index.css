@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f7ede2;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  background-color: #f6bd60;
+  border-color: white;
+  color: white;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.Read {
+  color: #f28482;
+}
+
+.NotRead {
+  color: #f6bd60;
 }
